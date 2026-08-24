@@ -48,3 +48,17 @@ New decisions in this project start at 0028.
 
 The final application submission is Rafael's decision and Rafael's click. Prepare everything,
 review it together, submit only on an explicit ok.
+
+## Agent skills
+
+### Issue tracker
+
+Issues live as GitHub issues, via the `gh` CLI. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+The five canonical labels, unrenamed. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context: `CONTEXT.md` plus `docs/adr/` at the repo root. See `docs/agents/domain.md`.
